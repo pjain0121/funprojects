@@ -1,0 +1,3 @@
+s-chat is project done in C to pratice Inter Process Communication between threads. 
+It uses RTTThreads and its IPC functions
+It can function accross multiple devices, just needed the right Ip.
